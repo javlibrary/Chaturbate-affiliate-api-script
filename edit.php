@@ -24,11 +24,11 @@
 
 /* Must be set */
 define ( 'SITENAME',	'Nutcams'); 		  /* Website name (if you want to use logo leave this empty, else put down your website title here and remove <img src="/img/logo.png" style="margin-top:10px;"/> below */
-define ( 'SITELOGO',	'<img src="/img/logo.png" style="margin-top:10px;"/>'); /* You can set a logo here for your website */
+define ( 'SITELOGO',	''); /* You can set a logo here for your website */
 define ( 'BASEHREF',	'https://nutcams.herokuapp.com/'); /* Website URL */
 define ( 'BASEPATH',	'https://nutcams.herokuapp.com/'); /* Website URL */
-define ( 'AFFID',		'2DLMP' );			  /* Affiliate ID */
-define ( 'TRACK',		'TinyCB' );			  /* Tracking code */
+define ( 'AFFID',		'XsGiX' );			  /* Affiliate ID */
+define ( 'TRACK',		'dyrhaka' );			  /* Tracking code */
 
 /* Optional but recommended */
 define ( 'GENDERSLUG',  'cams');			  /* Gender pages slug (url) */
