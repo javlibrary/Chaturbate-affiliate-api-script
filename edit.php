@@ -42,6 +42,6 @@ define ( 'WHITELABEL',		'https://chaturbate.com');/* Whitebale URL, no whitelabe
 define ( 'VUUKLE',			''); 			  /* If you want VUUKLE as a comment system, leave empty if not. Else get VUUKLE API key and paste it here.*/
 define ( 'GOOGLEVALIDATE',  ''); 			  /* Google webmaster verification code */
 define ( 'MSVALIDATE',		'');			  /* Bing webmasters verification code */
-define ( 'ANALYTICS',		'G-ZJPGBWZCX1');/* Analytics ID */
+define ( 'ANALYTICS',		'UA-153643733-1');/* Analytics ID */
 define ( 'FOOTERTXT',		'All rights reserved'); /* Footer text */
 ?>
