@@ -40,7 +40,7 @@ define ( 'SERPDESCHOME',    ''); 			  /* Home page description for Google (optio
 define ( 'KWSHOME',			'Don\'t break my page');       		  /* Homepage keywords (obsolete, optional) (Set at least one keyword, else the page will break. Keyword won't be used on pages, it's just for tech.*/
 define ( 'WHITELABEL',		'https://chaturbate.com');/* Whitebale URL, no whitelabel? Leave default */
 define ( 'VUUKLE',			''); 			  /* If you want VUUKLE as a comment system, leave empty if not. Else get VUUKLE API key and paste it here.*/
-define ( 'GOOGLEVALIDATE',  ''); 			  /* Google webmaster verification code */
+define ( 'GOOGLEVALIDATE',  'd91PnN3PpURi73MxF6XPZc685gMYM0cJSDfA8USiCjI'); 			  /* Google webmaster verification code */
 define ( 'MSVALIDATE',		'');			  /* Bing webmasters verification code */
 define ( 'ANALYTICS',		'UA-153643733-1');/* Analytics ID */
 define ( 'FOOTERTXT',		'All rights reserved'); /* Footer text */
