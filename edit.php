@@ -33,7 +33,7 @@ define ( 'TRACK',		'dyrhaka' );			  /* Tracking code */
 /* Optional but recommended */
 define ( 'GENDERSLUG',  'cams');			  /* Gender pages slug (url) */
 define ( 'MODELSLUG',   'cam');				  /* Model page (single page) slug (url) */
-define ( 'SERPTITLEHOME',   'Nutcams');      /* Title for Google (SERP) (Recommended)*/
+define ( 'SERPTITLEHOME',   'Interactive Adult Livestreams for Free');      /* Title for Google (SERP) (Recommended)*/
 define ( 'GENDERTITLE',		'');			  /* Title for Google gender page (male, female, couples, transsexuals are automatically set)*/
 define ( 'MODELTITLE', 		'');			  /* Title for Google model page (single page) (Title starts with example name JaneDoe's...) */
 define ( 'SERPDESCHOME',    ''); 			  /* Home page description for Google (optional)*/
